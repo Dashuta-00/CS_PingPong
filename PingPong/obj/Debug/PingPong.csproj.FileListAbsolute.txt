@@ -1,0 +1,20 @@
+D:\Projects C#.net\PingPong\PingPong\bin\Debug\PingPong.exe.config
+D:\Projects C#.net\PingPong\PingPong\bin\Debug\PingPong.exe
+D:\Projects C#.net\PingPong\PingPong\bin\Debug\PingPong.pdb
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.exe
+D:\Projects C#.net\PingPong\PingPong\obj\Debug\PingPong.pdb
+D:\ProjectsC#.net\PingPong\PingPong\bin\Debug\PingPong.exe.config
+D:\ProjectsC#.net\PingPong\PingPong\bin\Debug\PingPong.exe
+D:\ProjectsC#.net\PingPong\PingPong\bin\Debug\PingPong.pdb
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.Form1.resources
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.exe
+D:\ProjectsC#.net\PingPong\PingPong\obj\Debug\PingPong.pdb
